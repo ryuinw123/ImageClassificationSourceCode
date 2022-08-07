@@ -1,6 +1,6 @@
 # ImageClassificationSourceCode   
 
-Machine Learning Bird Classification   
+Machine Learning Bird Classification Using Transfer Learning    
 
 DATASET https://www.kaggle.com/datasets/gpiosenka/100-bird-species   
 
